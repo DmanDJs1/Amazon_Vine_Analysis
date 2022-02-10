@@ -35,7 +35,7 @@ What percentage of non-Vine reviews were 5 stars?
  ![image](https://github.com/DmanDJs1/Amazon_Vine_Analysis/blob/main/resources/unpaid_5_star_reviews%20%25.png?raw=true)
 
 
-##Summary
+## Summary
 ----------------------------------------------------------
 
 According to the analysis of the dataset, more than half of the reviews in the program were 5 star at 51%. 
