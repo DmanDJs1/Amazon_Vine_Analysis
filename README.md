@@ -38,8 +38,8 @@ What percentage of non-Vine reviews were 5 stars?
 ## Summary
 ----------------------------------------------------------
 
-According to the analysis of the dataset, more than half of the reviews in the program were 5 star at 51%. 
-The percentage of the unpaid non vine reviews were lower at 39%. 
+According to the analysis of the dataset, more than half of the reviews in the program were less than 5 star at 51%. 
+The percentage of the unpaid non vine reviews were lower at 51%. 
 This demonstrates a positive bias towards the reviews in the vine review program.
 
 An additional analysis can be conducted to determine the mean, median and mode (statistical distribution) 
