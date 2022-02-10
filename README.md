@@ -6,13 +6,14 @@ ETL process to extract the dataset, massage it and connect it to an AWS RDS inst
 
 ## Results of our analysis:
 
-#How many Vine reviews and non-Vine reviews were there?
+How many Vine reviews and non-Vine reviews were there?
    
  Total number of Paid
  ![image](https://github.com/DmanDJs1/Amazon_Vine_Analysis/blob/main/resources/Paid_total_number_of_reviews.png?raw=true)
 
 
 Total number of unpaid
+
  ![image](https://github.com/DmanDJs1/Amazon_Vine_Analysis/blob/main/resources/unpaid_total_number_of_reviews.png?raw=true)	 
 
 
