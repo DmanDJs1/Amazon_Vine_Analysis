@@ -42,5 +42,5 @@ According to the analysis of the dataset, more than half of the reviews in the p
 The percentage of the unpaid non vine reviews were lower at 51%. 
 This demonstrates a positive bias towards the reviews in the vine review program.
 
-An additional analysis can be conducted to determine the mean, median and mode (statistical distribution) 
-of rating for both the paid and non-paid reviews
+Additional analysis could be conducted to determine the mean, median and mode (statistical distribution) 
+of rating for both the paid and non-paid reviews. This would help in determining the impact of paid vs unpaid reviewers. 
