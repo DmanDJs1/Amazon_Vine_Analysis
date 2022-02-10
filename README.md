@@ -6,32 +6,31 @@ ETL process to extract the dataset, massage it and connect it to an AWS RDS inst
 
 ## Results of our analysis:
 
- * How many Vine reviews and non-Vine reviews were there?
+How many Vine reviews and non-Vine reviews were there?
    
-  Total number of Paid
+ Total number of Paid
  ![image](https://github.com/DmanDJs1/Amazon_Vine_Analysis/blob/main/resources/Paid_total_number_of_reviews.png?raw=true)
 
 
-
-  Total number of unpaid
+Total number of unpaid
  ![image](https://github.com/DmanDJs1/Amazon_Vine_Analysis/blob/main/resources/unpaid_total_number_of_reviews.png?raw=true)	 
 
 
 
- * How many Vine reviews were 5 stars? 
+How many Vine reviews were 5 stars? 
  ![image](https://github.com/DmanDJs1/Amazon_Vine_Analysis/blob/main/resources/Paid_5_star_reviews.png?raw=true)
 
 
-
- * How many non-Vine reviews were 5 stars?
+How many non-Vine reviews were 5 stars?
  ![image](https://github.com/DmanDJs1/Amazon_Vine_Analysis/blob/main/resources/unpaid_5_star_reviews.png?raw=true)
 
 
 
- * What percentage of Vine reviews were 5 stars? 
+What percentage of Vine reviews were 5 stars? 
  ![image](https://github.com/DmanDJs1/Amazon_Vine_Analysis/blob/main/resources/Paid_5_star_reviews%20%25.png?raw=true)
 
- * What percentage of non-Vine reviews were 5 stars?
+
+What percentage of non-Vine reviews were 5 stars?
  ![image](https://github.com/DmanDJs1/Amazon_Vine_Analysis/blob/main/resources/unpaid_5_star_reviews%20%25.png?raw=true)
 
 
